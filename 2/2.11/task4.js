@@ -1,0 +1,1 @@
+console.log(console.log(1) && console.log(2)); // 1 и undefined (Вызовется console.log(1) что даст 1 и вернет значение undefined, после которого вычисление прекратится)

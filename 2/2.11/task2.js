@@ -1,0 +1,1 @@
+console.log( console.log(1) || 2 || console.log(3) ); // 1 и 2 (После вызова console.log(1) возвращает undefined, поэтому происходит поиск true дальше)
